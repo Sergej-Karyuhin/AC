@@ -1,0 +1,12 @@
+### Assessment 1:
+- [Замена switch объектным литералом](https://makeomatic.ru/blog/2014/12/17/Switch_statement/)
+- [Литерал объекта](https://developer.mozilla.org/ru/docs/Web/JavaScript/Guide/Grammar_and_types#%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D0%BB_%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%B0)
+- Стрелочная функция должна иметь return если есть {}
+- [Копирование объекта](https://nuancesprog.ru/p/4443/)
+- call / apply / bind (можно заимствовать метод)
+- [LearnJS: объект в примитив](https://learn.javascript.ru/object-toprimitive)
+- [Негативные значения JS](https://stackoverflow.com/questions/21206207/javascript-falsy-values-null-undefined-false-empty-string-or-and-0-a/21206872)
+- new используется когда нужно много объектов, конструктор
+- [new String возвращает объект](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String)
+- [LearnJS: деструктуризация](https://learn.javascript.ru/destructuring-assignment)
+- [LearnJS: Если у нас есть большой объект с множеством свойств, можно взять только то, что нужно](https://learn.javascript.ru/destructuring-assignment)
