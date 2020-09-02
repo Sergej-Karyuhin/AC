@@ -23,3 +23,4 @@
 - [Транспиляция](https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%B0%D0%B9%D0%BB%D0%B5%D1%80)
 - [Роутинг](https://metanit.com/web/angular2/7.1.php)
 - [ООП](http://www.codenet.ru/progr/cpp/ipn.php)
+- [Pipe](https://webdraftt.com/tutorial/angular-pipes)
