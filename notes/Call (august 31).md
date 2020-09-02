@@ -14,7 +14,7 @@
 - [Привязка](https://metanit.com/web/angular2/2.5.php)
 - [ngIf, ngFor, ngSwitch](https://metanit.com/web/angular2/3.5.php)
 - [Resolve](https://angular.io/api/router/Resolve)
-- [Resolve](https://qna.habr.com/q/402909#:~:text=Resolve%20%D0%BF%D0%BE%D0%B7%D0%B2%D0%BE%D0%BB%D1%8F%D0%B5%D1%82%20%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%8C%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B4%D0%BE,%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0%20%D1%83%20%D1%82%D0%B5%D0%B1%D1%8F%20%D1%81%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%BB%20%D1%80%D0%BE%D1%83%D1%82%D0%B8%D0%BD%D0%B3.)
+- [Resolve (short)](https://qna.habr.com/q/402909#:~:text=Resolve%20%D0%BF%D0%BE%D0%B7%D0%B2%D0%BE%D0%BB%D1%8F%D0%B5%D1%82%20%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%8C%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B4%D0%BE,%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0%20%D1%83%20%D1%82%D0%B5%D0%B1%D1%8F%20%D1%81%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%BB%20%D1%80%D0%BE%D1%83%D1%82%D0%B8%D0%BD%D0%B3.)
 - [Guard](https://metanit.com/web/angular2/7.7.php)
 - [Декоратор](https://medium.com/@overthesanity/%D0%BF%D0%BE%D0%B7%D0%BD%D0%B0%D0%B5%D0%BC-%D0%B4%D0%B7%D0%B5%D0%BD-%D1%80%D0%B5%D1%84%D0%BB%D0%B5%D0%BA%D1%81%D0%B8%D0%B8-%D0%B8-%D0%B4%D0%B5%D0%BA%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BE%D0%B2-%D0%B2-typescript-%D0%B8-angular-ecbbd8e9b938)
 - [Жизненный цикл компонента](https://metanit.com/web/angular2/2.8.php)
