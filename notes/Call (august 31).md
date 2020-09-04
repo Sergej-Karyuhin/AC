@@ -25,3 +25,4 @@
 - [Роутинг](https://metanit.com/web/angular2/7.1.php)
 - [ООП](http://www.codenet.ru/progr/cpp/ipn.php)
 - [Pipe](https://webdraftt.com/tutorial/angular-pipes)
+- [Абстрактные классы](https://metanit.com/web/typescript/3.2.php)
