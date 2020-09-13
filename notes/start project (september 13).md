@@ -2,7 +2,7 @@
 - [Video player styling basics](https://developer.mozilla.org/en-US/docs/Web/Guide/Audio_and_video_delivery/Video_player_styling_basics)
 - [Sass/SCSS](https://tproger.ru/translations/complete-sass-guide/)
 - [БЭМ](https://ru.bem.info/methodology/quick-start/)
-- []()
+- [Figma](https://www.figma.com/best-practices/tips-on-developer-handoff/an-overview-of-figma-for-developers/)
 - []()
 - []()
 - []()
