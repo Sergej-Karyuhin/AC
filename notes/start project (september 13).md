@@ -1,1 +1,2 @@
-123
+- [HTML Video element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video)
+- [Video player styling basics](https://developer.mozilla.org/en-US/docs/Web/Guide/Audio_and_video_delivery/Video_player_styling_basics)
