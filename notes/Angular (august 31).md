@@ -1,4 +1,4 @@
-### Angular (august 31)
+### Call (august 31)
 - [Typescript (RU)](http://typescript-lang.ru/docs/)
 - [Angular (RU)](https://angular24.ru/)
 - [Angular JSON](https://angular.io/guide/workspace-config)
