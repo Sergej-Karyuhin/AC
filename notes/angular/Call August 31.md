@@ -1,4 +1,4 @@
-### Call (august 31)
+### Call August 31
 - [Typescript (RU)](http://typescript-lang.ru/docs/)
 - [Angular (RU)](https://angular24.ru/)
 - [Angular JSON](https://angular.io/guide/workspace-config)
@@ -26,3 +26,4 @@
 - [ООП](http://www.codenet.ru/progr/cpp/ipn.php)
 - [Pipe](https://webdraftt.com/tutorial/angular-pipes)
 - [Абстрактные классы](https://metanit.com/web/typescript/3.2.php)
+- [Resolvers/guards](https://medium.com/@cakeinpanic/ng2-route-resolvers-vs-route-guards-6e8f7c7ad956)
