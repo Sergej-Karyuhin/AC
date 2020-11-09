@@ -1,6 +1,7 @@
 ### Metanit
 - [Angular](https://metanit.com/web/angular2/1.1.php)
 - [Typescript](https://metanit.com/web/typescript/1.1.php)
+- [Webdraftt](https://webdraftt.com/)
 
 ### (1) Angular intro
 - [Angular 2020Q1 intro. TypeScript & Angular basics](https://www.youtube.com/watch?v=HoUq9xyfCAk&feature=youtu.be)
