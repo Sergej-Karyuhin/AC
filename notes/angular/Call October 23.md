@@ -30,7 +30,7 @@
 - [Polish BEM Knowledge and how it’s used in SCSS and other preprocessors](https://ru.bem.info/methodology/quick-start/)
 
 ### Angular
-- Resolvers/guards (look first doc)
+- [Resolvers/guards](https://medium.com/@cakeinpanic/ng2-route-resolvers-vs-route-guards-6e8f7c7ad956)
 - [AOT, JIT, Ivy (youtube)](https://www.youtube.com/watch?v=8fUKZm6WOxY)
 - [AOT, JIT, Ivy (webdraftt)](https://webdraftt.com/tutorial/angular-compilation)
 - [Observable, RxJS](https://metanit.com/web/angular2/6.2.php)
