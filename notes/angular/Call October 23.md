@@ -25,9 +25,9 @@
 
 ### Layout
 - [Desktop first, mobile first](https://medium.com/@JuliSudi/mobile-first-design-vs-desktop-first-design-vs-element-first-design-5d1015632a61)
-- Advanced CSS selectors
-- Advanced SCSS features like cycles, conditions, mixins, functions, placeholders, etc
-- Polish BEM Knowledge and how it’s used in SCSS and other preprocessors
+- [Advanced CSS selectors](https://developer.mozilla.org/ru/docs/Learn/CSS/Building_blocks/%D0%A1%D0%B5%D0%BB%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D1%8B)
+- [Advanced SCSS features like cycles, conditions, mixins, functions, placeholders, etc](https://tproger.ru/translations/complete-sass-guide/)
+- [Polish BEM Knowledge and how it’s used in SCSS and other preprocessors](https://ru.bem.info/methodology/quick-start/)
 
 ### Angular
 - Resolvers/guards (look first doc)
