@@ -15,6 +15,14 @@
 ### Scrum
 - [Simple diagram](https://www.pmoffice.by/wp-content/uploads/2016/06/scrum-methodology.gif)
 - [Artifacts SCRUM](https://ru.wikipedia.org/wiki/SCRUM#%D0%90%D1%80%D1%82%D0%B5%D1%84%D0%B0%D0%BA%D1%82%D1%8B_SCRUM)
+- Ceremonies of Scrum
+- Estimating tasks in Story Points
+- Kanban vs Scrum
+- Scrum Roles and its responsibilities 
+- Scrum board
+- Backlog
+- Sprint
+- Epic vs User Story vs Task vs Bug
 
 ### Layout
 - [Desktop first, mobile first](https://medium.com/@JuliSudi/mobile-first-design-vs-desktop-first-design-vs-element-first-design-5d1015632a61)
