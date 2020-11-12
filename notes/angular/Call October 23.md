@@ -52,15 +52,16 @@
 - [Основы реактивного программирования](https://habr.com/ru/post/438642/)
 - [RxJs switchMap (coldfox)](http://coldfox.ru/article/5c97ea53b6d53761471fcb91/%D0%9A%D0%B0%D0%BA-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%B5%D1%82-%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80-RxJs-switchMap)
 - [RxJs switchMap (webdraftt)](https://webdraftt.com/tutorial/rxjs/switchMap)
-- NgContent
-- Custom Directives
+- [NgContent](https://metanit.com/web/angular2/2.6.php)
+- [Custom Directives](https://metanit.com/web/angular2/3.2.php)
 
 ### RxJS
-- Observables
-- Try / catch
-- Of
+- [Observables](https://medium.com/@kosmogradsky/observable-%D0%B2-rxjs-%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D0%BE%D0%B5-%D0%B2%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-34939ff5f7d7)
+- [Try / catch](https://medium.com/@buhtatyalexander90/%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0-%D0%BE%D1%88%D0%B8%D0%B1%D0%BE%D0%BA-%D0%B2-rxjs-%D0%BF%D0%BE%D0%BB%D0%BD%D0%BE%D0%B5-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5-%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE-%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4-b52bef2ef6c)
+- [Of](https://webdraftt.com/tutorial/rxjs/of)
 - Convert to Promise and vice verse
-- Maps
-- Timers and intervals
-- Pipes
+- [Maps](https://webdraftt.com/tutorial/rxjs/map)
+- [Timers](https://webdraftt.com/tutorial/rxjs/timer)
+- [Intervals](https://webdraftt.com/tutorial/rxjs/interval)
+- [Pipes](https://webdraftt.com/tutorial/rxjs/operators-and-pipe)
 
