@@ -31,8 +31,8 @@
 
 ### Angular
 - [Resolvers/guards](https://medium.com/@cakeinpanic/ng2-route-resolvers-vs-route-guards-6e8f7c7ad956)
-- [AOT, JIT, Ivy (youtube)](https://www.youtube.com/watch?v=8fUKZm6WOxY)
-- [AOT, JIT, Ivy (webdraftt)](https://webdraftt.com/tutorial/angular-compilation)
+- [AOT, JIT](https://webdraftt.com/tutorial/angular-compilation)
+- [Ivy](https://webdraftt.com/tutorial/angular-ivy)
 - [Observable, RxJS](https://metanit.com/web/angular2/6.2.php)
 - [Несвязанные компоненты](https://habr.com/ru/post/471100/)
 - [Передача данных](https://webdraftt.com/tutorial/components-communication)
