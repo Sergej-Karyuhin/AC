@@ -54,3 +54,14 @@
 - [RxJs switchMap (coldfox)](http://coldfox.ru/article/5c97ea53b6d53761471fcb91/%D0%9A%D0%B0%D0%BA-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%B5%D1%82-%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80-RxJs-switchMap)
 - [RxJs switchMap (webdraftt)](https://webdraftt.com/tutorial/rxjs/switchMap)
 - NgContent
+- Custom Directives
+
+### RxJS
+- Observables
+- Try / catch
+- Of
+- Convert to Promise and vice verse
+- Maps
+- Timers and intervals
+- Pipes
+
