@@ -10,6 +10,7 @@
 - [Head, working tree, index](https://stackoverflow.com/questions/3689838/whats-the-difference-between-head-working-tree-and-index-in-git)
 - [Log](https://git-scm.com/book/ru/v2/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-Git-%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80-%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8-%D0%BA%D0%BE%D0%BC%D0%BC%D0%B8%D1%82%D0%BE%D0%B2)
 - [Remove --cah](https://stackoverflow.com/questions/41863484/clear-git-local-cache)
+- [Read Git Pro book (at least 1st chapter)](https://vk.com/doc287414320_437335251?hash=5ccc8a6824880b3fa8)
 
 ### Scrum
 - [Simple diagram](https://www.pmoffice.by/wp-content/uploads/2016/06/scrum-methodology.gif)
